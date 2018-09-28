@@ -1,0 +1,6 @@
+GTK_IM_MODULE=fcitx
+QT_IM_MODULE=fcitx
+XMODIFIERS=@im=fcitx
+JAVA_HOME=/usr/lib/jvm/default
+WINEDLLOVERRIDES=winemenubuilder.exe=d
+EDITOR="code -w"

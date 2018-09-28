@@ -1,0 +1,16 @@
+*
+
+!.gitignore
+
+!.zshrc
+!.pam_environment
+!.face
+!.face.icon
+!.config/fontconfig/fonts.conf
+
+!Wine/colors.reg
+!Wine/env.sh
+
+!Wine/AIMP/env.sh
+!Wine/AIMP/run.sh
+!Wine/AIMP/term.sh

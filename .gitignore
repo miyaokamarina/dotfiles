@@ -6,10 +6,19 @@
 !.pam_environment
 !.face
 !.face.icon
+
+!.config
+
+!.config/fontconfig
+
 !.config/fontconfig/fonts.conf
+
+!Wine
 
 !Wine/colors.reg
 !Wine/env.sh
+
+!Wine/AIMP
 
 !Wine/AIMP/env.sh
 !Wine/AIMP/run.sh

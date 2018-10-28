@@ -3,4 +3,5 @@ QT_IM_MODULE=fcitx
 XMODIFIERS=@im=fcitx
 JAVA_HOME=/usr/lib/jvm/default
 WINEDLLOVERRIDES=winemenubuilder.exe=d
-EDITOR="code -w"
+LANG=en_US.UTF-8
+LC_ALL=en_US.UTF-8

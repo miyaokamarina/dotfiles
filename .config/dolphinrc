@@ -35,6 +35,7 @@ MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAEHvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAAAAAEHgAAAFQA////AAAAAQAAALQAAAQe/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAAAAAAQeAAABDAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAGCAAABB4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 Width 1920=1920
+Window-Maximized 1080x1920=true
 
 [PreviewSettings]
 Plugins=audiothumbnail,comicbookthumbnail,djvuthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,htmlthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,svgthumbnail

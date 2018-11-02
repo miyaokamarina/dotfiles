@@ -18,7 +18,7 @@
 !.config/fcitx/data/layout_override
 
 !.config/gtk-3.0
-!.config/gtk-3.0/settings.ini
+.config/gtk-3.0/settings.ini
 
 !.config/mpv
 !.config/mpv/input.conf
@@ -29,12 +29,12 @@
 
 !.config/breezerc
 .config/dolphinrc
-!.config/gwenviewrc
+.config/gwenviewrc
 !.config/kimtoyrc
 !.config/klipperrc
-!.config/konsolerc
-!.config/krunnerrc
-!.config/ksysguardrc
+.config/konsolerc
+.config/krunnerrc
+.config/ksysguardrc
 !.config/kwinrc
 !.config/touchpadrc
 

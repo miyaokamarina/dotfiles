@@ -10,8 +10,38 @@
 !.config
 
 !.config/fontconfig
-
 !.config/fontconfig/fonts.conf
+
+!.config/fcitx
+!.config/fcitx/config
+!.config/fcitx/data
+!.config/fcitx/data/layout_override
+
+!.config/gtk-3.0
+!.config/gtk-3.0/settings.ini
+
+!.config/mpv
+!.config/mpv/input.conf
+!.config/mpv/mpv.conf
+!.config/mpv/scripts
+!.config/mpv/scripts/autoload.lua
+!.config/mpv/scripts/webm.lua
+
+!.config/breezerc
+!.config/dolphinrc
+!.config/gwenviewrc
+!.config/kimtoyrc
+!.config/klipperrc
+!.config/konsolerc
+!.config/krunnerrc
+!.config/ksysguardrc
+!.config/kwinrc
+!.config/touchpadrc
+
+!.local
+!.local/share
+!.local/share/konsole
+!.local/share/konsole/New Profile.profile
 
 !Wine
 

@@ -1,0 +1,18 @@
+[Common]
+OutlineCloseButton=false
+
+[Style]
+MnemonicsMode=MN_NEVER
+TabBarDrawCenteredTabs=true
+ViewDrawFocusIndicator=false
+
+[Windeco]
+ButtonSize=ButtonSmall
+
+[Windeco Exception 0]
+BorderSize=1
+Enabled=true
+ExceptionPattern=.*
+ExceptionType=0
+HideTitleBar=true
+Mask=0

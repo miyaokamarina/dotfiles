@@ -1,0 +1,62 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update
+
+[Crop]
+CropAdvancedSettingsEnabled=true
+CropRatioHeight=9
+CropRatioIndex=5
+CropRatioWidth=16
+
+[FileDialogSize]
+Height 1080=480
+Width 1920=840
+
+[General]
+DefaultExportPluginText=Install Plugins
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Wallpapers/Edited/Konachan.com - 211416 clouds kibunya_39 kyoukai_no_kanata original silhouette sky stars sunset.png,file:$HOME/Pictures/Wallpapers/Edited/Konachan.com - 211416 clouds kibunya_39 kyoukai_no_kanata original silhouette sky stars sunset.png
+Recent URLs[$e]=file:$HOME/Pictures/Wallpapers/Edited/
+
+[MainWindow]
+Height 1080=466
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=626
+Window-Maximized 1080x1920=true
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Wallpapers/Konachan.com - 272534 barefoot blue_hair dark fallen_heaven flowers long_hair nude original water.jpg
+File10[$e]=$HOME/Pictures/Wallpapers/Konachan.com - 211416 clouds kibunya_39 kyoukai_no_kanata original silhouette sky stars sunset.jpg
+File2[$e]=$HOME/Pictures/Wallpapers/Konachan.com - 272045 ashima black_hair building city clouds dress flowers long_hair original petals rooftop scenic sky.png
+File3[$e]=$HOME/Pictures/Wallpapers/Konachan.com - 269093 black_hair brown_eyes ibara_dance necklace original short_hair space thighhighs underwear.jpg
+File4[$e]=$HOME/Pictures/Wallpapers/Konachan.com - 268400 chyopeuteu original.jpg
+File5[$e]=$HOME/Pictures/Wallpapers/Konachan.com - 253044 animal bird dragon landscape long_hair original ryky scenic signed sky.png
+File6[$e]=$HOME/Pictures/Wallpapers/Konachan.com - 248890 building leaves natsu3390 original scarf scenic snow sunset tree winter.jpg
+File7[$e]=$HOME/Pictures/Wallpapers/Konachan.com - 247238 forest nobody scenic shuxing_li tree.jpg
+File8[$e]=$HOME/Pictures/Wallpapers/Konachan.com - 225917 bicolored_eyes black_hair bow breasts choker cleavage date_a_live dress headdress long_hair photoshop tokisaki_kurumi tsunako twintails white.png
+File9[$e]=$HOME/Pictures/Wallpapers/Konachan.com - 218028 animal bird building clouds forest jpeg_artifacts landscape nobody original poppo_sutchy reflection scenic sky sunset tree water.jpg
+Name1[$e]=Konachan.com - 272534 barefoot blue_hair dark fallen_heaven flowers long_hair nude original water.jpg
+Name10[$e]=Konachan.com - 211416 clouds kibunya_39 kyoukai_no_kanata original silhouette sky stars sunset.jpg
+Name2[$e]=Konachan.com - 272045 ashima black_hair building city clouds dress flowers long_hair original petals rooftop scenic sky.png
+Name3[$e]=Konachan.com - 269093 black_hair brown_eyes ibara_dance necklace original short_hair space thighhighs underwear.jpg
+Name4[$e]=Konachan.com - 268400 chyopeuteu original.jpg
+Name5[$e]=Konachan.com - 253044 animal bird dragon landscape long_hair original ryky scenic signed sky.png
+Name6[$e]=Konachan.com - 248890 building leaves natsu3390 original scarf scenic snow sunset tree winter.jpg
+Name7[$e]=Konachan.com - 247238 forest nobody scenic shuxing_li tree.jpg
+Name8[$e]=Konachan.com - 225917 bicolored_eyes black_hair bow breasts choker cleavage date_a_live dress headdress long_hair photoshop tokisaki_kurumi tsunako twintails white.png
+Name9[$e]=Konachan.com - 218028 animal bird building clouds forest jpeg_artifacts landscape nobody original poppo_sutchy reflection scenic sky sunset tree water.jpg
+
+[SideBar]
+IsVisible BrowseMode=false
+IsVisible ViewMode=false
+SideBarSplitterSizes=392,1522
+
+[StatusBar]
+IsVisible BrowseMode=false
+IsVisible ViewMode=false
+
+[ThumbnailView]
+ListVideos=false
+ThumbnailSize=164

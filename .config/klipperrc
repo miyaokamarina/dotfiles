@@ -1,0 +1,5 @@
+[General]
+IgnoreSelection=true
+MaxClipItems=2048
+SelectionTextOnly=false
+Version=5.14.1

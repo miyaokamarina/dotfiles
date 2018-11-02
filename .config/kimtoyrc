@@ -1,0 +1,17 @@
+[General]
+Filters=
+XYPosition=952,160
+
+[appearance]
+VerticalPreeditBar=true
+
+[behavior]
+AutostartKIMToy=true
+TrayiconMode=true
+
+[inputmethod]
+RunFcitx=true
+
+[performance]
+EnablePreeditResizing=true
+EnableWindowMask=true

@@ -50,6 +50,15 @@
 
 !Wine/AIMP
 
+!Wine/AIMP/arch.sh
 !Wine/AIMP/env.sh
 !Wine/AIMP/run.sh
 !Wine/AIMP/term.sh
+!Wine/env.sh
+
+!Wine/PS
+
+!Wine/PS/arch.sh
+!Wine/PS/env.sh
+!Wine/PS/run.sh
+!Wine/PS/term.sh

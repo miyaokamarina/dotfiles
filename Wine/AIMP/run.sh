@@ -2,4 +2,4 @@
 
 . "`dirname "${0}"`/env.sh"
 
-wine "${WINE_ROOT}/Program Files/AIMP/AIMP.exe"
+MM_WINE_BIN "${WINE_ROOT}/Program Files/AIMP/AIMP.exe"

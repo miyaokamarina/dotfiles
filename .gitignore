@@ -27,7 +27,7 @@
 !.config/mpv/scripts/autoload.lua
 !.config/mpv/scripts/webm.lua
 
-!.config/breezerc
+.config/breezerc
 .config/dolphinrc
 .config/gwenviewrc
 !.config/kimtoyrc

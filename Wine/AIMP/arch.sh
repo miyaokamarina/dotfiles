@@ -2,4 +2,4 @@
 export WINEARCH="win32"
 
 # Set Wine executable.
-export MM_WINE_BIN=`/usr/bin/env wine`
+export MM_WINE_BIN=wine

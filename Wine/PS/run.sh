@@ -2,4 +2,4 @@
 
 . "`dirname "${0}"`/env.sh"
 
-# wine "${WINE_ROOT}/Program Files/AIMP/AIMP.exe"
+wine64 "${WINE_ROOT}/PS/photoshop.exe"

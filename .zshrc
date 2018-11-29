@@ -66,6 +66,10 @@ plugins=(
   git
   sudo
   yarn
+  httpie
+  systemd
+  fasd
+  compleat
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -112,3 +116,5 @@ compctl -K _dotnet_zsh_complete dotnet
 
 alias dn="dotnet"
 alias edit="code -w"
+
+export EDITOR="code -w"
